@@ -1,7 +1,7 @@
 {
-    "name": "a17",
+    "name": "NPC ASF2.0",
     "version": "1.0.0",
-    "description": "A17 is a WhatsApp multiDevice Bot based on Miku and Baileys written in Javascript.",
+    "description": "NPC ASF2.0 is a WhatsApp multiDevice Bot based on Miku and Baileys written in Javascript.",
     "main": "index.js",
     "directories": {
         "lib": "lib"
@@ -17,7 +17,7 @@
     "keywords": [
         "md-bot"
     ],
-    "author": "Kai",
+    "author": "Coco",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4/issues"
