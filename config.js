@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
+global.Owner = ["+27698908814"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+27698908814"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+2769890814"];
+global.OwnerName = "COCO";
+global.BotName = "NPC ASF2.0";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "Durban, KZN";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
@@ -80,18 +80,18 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  useradmin: 'Sorry, only *Group Admins* can use this command *IDIOT*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
+  botowner: 'Only my *Owner* can use this command, YOU FUCKING IDIOT SANDWHICH!',
+  grouponly: 'This command is only made for *Groups*, BRUH!',
+  privateonly: 'This command is only made for *Private Chat*, MXM!',
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  nolink: 'Please provide me *link*, YOU IDIOT SANDWHICH!',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a pervert bro! This is not a NSFW enabled group!'
 
 }
 
