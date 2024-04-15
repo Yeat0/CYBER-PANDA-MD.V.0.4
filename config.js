@@ -9,10 +9,10 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -25,7 +25,7 @@ global.Owner = ["+27698908814"];         //If you want singal number so global.O
 global.OwnerNumber = ["+27698908814"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+2769890814"];
 global.OwnerName = "COCO";
-global.BotName = "NPC ASF2.0";
+global.BotName = "Nexx";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
